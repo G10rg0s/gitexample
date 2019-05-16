@@ -1,6 +1,6 @@
-function example(x){
+function example(y){
     temp="*"
-    for(i=0;i<x;i++){
+    for(i=0;i<y;i++){
         console.log(temp)
         temp=temp+"*"
     }
